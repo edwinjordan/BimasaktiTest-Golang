@@ -1,3 +1,3 @@
 module github.com/edwinjordan/BimasaktiTest-Golang
 
-go 1.24.9
+go 1.21

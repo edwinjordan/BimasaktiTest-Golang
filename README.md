@@ -73,7 +73,7 @@ Berbagai metode untuk menghentikan goroutine:
 
 ## Requirements
 
-- Go 1.16 atau lebih baru
+- Go 1.21 atau lebih baru
 
 ## Lisensi
 
